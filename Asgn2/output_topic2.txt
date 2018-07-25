@@ -1,0 +1,2 @@
+SUCCESS! 
+Safe process sequence is: < P0,P2,P3,P4,P5,P7,P8,P9,P1,P6 > 
